@@ -7,7 +7,7 @@ private:
 	double Pole;
 	double objetosc;
 public:
-	Kula(int R);
+	Kula(int );
 	void Pole_Kuli();
 	void objetosc_Kuli();
 	void wyswietl(void);
